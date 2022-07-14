@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import NewTitle from './components/Title.vue'
+import NewTitle from './components/NewTitle.vue'
 
 export default {
   name: 'App',
